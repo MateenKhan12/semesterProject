@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - Enemy
+  - enemy
+  - PlayerBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backgound
+    uniqueID: 3153856989
+    locked: 0
+  - name: small stars
+    uniqueID: 1493352389
+    locked: 0
+  - name: big stars
+    uniqueID: 1462412637
+    locked: 0
+  - name: player
+    uniqueID: 2778833583
+    locked: 0
+  - name: enemy
+    uniqueID: 1831964383
+    locked: 0
